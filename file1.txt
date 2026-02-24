@@ -1,3 +1,4 @@
 Some content
 Additional line
 Master branch change
+Modified in branch1
